@@ -84,7 +84,10 @@ Publish the website in the given URL.
 </body>
 ```
 ## OUTPUT:
-![Screenshot 2024-04-26 204901](https://github.com/sreehari2315/Calc/assets/139331590/38d76174-9de7-4a72-ac73-bf7ef4e4f934)
+NAME:SANJIT P
+
+REGISTER NO:212223230190
+![Screenshot 2024-04-26 231647](https://github.com/Sanjit2328/Calc/assets/139331694/c7c6ca00-21cd-4a4e-82e2-4b472f26cb4c)
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
